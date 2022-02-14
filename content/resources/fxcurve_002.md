@@ -8,7 +8,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: fxcurve_002.jpg
+type: OCWImage
 uid: cf4b4a1c-ce39-d9c3-e689-a765055519f3
 ---
