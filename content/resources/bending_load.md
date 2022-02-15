@@ -14,6 +14,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image
 title: bending_load.jpg
-type: OCWImage
 uid: b204751d-8c73-dbe8-ef0c-5fd16ea340c6
 ---

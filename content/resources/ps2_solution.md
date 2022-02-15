@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: ps2_solution.pdf
-type: OCWFile
 uid: 8c6c83d4-a8d0-d2e9-f2bd-9f57bb72d9e9
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 8cncrnt_mltiscal.pdf
-type: OCWFile
 uid: 34bbd983-7a8d-6a12-e008-8a9220ff04ff
 ---

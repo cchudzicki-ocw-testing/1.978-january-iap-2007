@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: c_nmd_tutorl_prt.pdf
-type: OCWFile
 uid: 42801b67-4a7a-b3d5-2e13-4f511140bc41
 ---

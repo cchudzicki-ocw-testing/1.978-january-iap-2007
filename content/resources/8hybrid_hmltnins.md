@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 8hybrid_hmltnins.pdf
-type: OCWFile
 uid: 5b4dd1fd-7e0c-2e85-28d0-6928661fc75d
 ---

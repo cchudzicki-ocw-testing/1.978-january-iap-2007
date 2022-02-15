@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Other
 title: out_small_001.dcd
-type: OCWFile
 uid: 3d764ead-4ed4-e478-81d9-e696679c2e23
 ---

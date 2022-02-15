@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: c_nmd_tutorl_prt.pdf
-type: OCWFile
 uid: 769d072c-0326-ff79-f339-8de740b0e1f3
 ---

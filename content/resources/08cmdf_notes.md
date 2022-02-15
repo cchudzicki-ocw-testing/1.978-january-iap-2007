@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 08cmdf_notes.pdf
-type: OCWFile
 uid: 9b14fdb6-73a8-059d-aacf-22d31cd08d5f
 ---
