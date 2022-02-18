@@ -22,19 +22,19 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1))
+Problem Set 1 ({{< resource_link b6d24cc2-86a0-1143-cfda-d54fbd3693eb "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps1_solution))
+({{< resource_link 30b6b4c9-5f49-f42e-f600-906c4268cdad "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
+Problem Set 2 ({{< resource_link 181227c3-3a5e-1029-ceb3-3659685af9e3 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps2_solution))
+({{< resource_link 8c6c83d4-a8d0-d2e9-f2bd-9f57bb72d9e9 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
