@@ -217,7 +217,7 @@ Buehler, Markus J., Jef Dodson, Adri C. T. van Duin, Peter Meulbroek, William A.
 
 ### Final project Part C
 
-NAMD Tutorial by Markus Buehler ({{< resource_link 42801b67-4a7a-b3d5-2e13-4f511140bc41 "PDF" >}})
+NAMD Tutorial by Markus Buehler ({{% resource_link 42801b67-4a7a-b3d5-2e13-4f511140bc41 "PDF" %}})
 
 
 {{< tdclose >}}
