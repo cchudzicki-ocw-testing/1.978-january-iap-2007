@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec03.pdf
 uid: cc692dae-845a-d785-b48e-c3aff2dc0ee7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

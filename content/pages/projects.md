@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Projects
 uid: 90f60c06-d578-ff04-ac25-c2799d5bf7d9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Final Project Introduction ({{% resource_link 8d7ae187-a7da-c9be-7da6-1c1273918154 "PDF" %}})

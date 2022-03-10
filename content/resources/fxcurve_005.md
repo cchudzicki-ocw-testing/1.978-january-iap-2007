@@ -16,4 +16,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: fxcurve_005.jpg
 uid: 47930739-3f61-efde-290f-df353e32561a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
