@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 8hybrid_hmltnins.pdf
 uid: 5b4dd1fd-7e0c-2e85-28d0-6928661fc75d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

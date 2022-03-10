@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: out_small_005.dcd
 uid: a2aa2691-8504-797e-f418-424f2d03b12a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

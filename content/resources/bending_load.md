@@ -16,4 +16,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: bending_load.jpg
 uid: b204751d-8c73-dbe8-ef0c-5fd16ea340c6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

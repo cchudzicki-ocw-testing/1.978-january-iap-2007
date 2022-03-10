@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: c_nmd_tutorl_prt.pdf
 uid: 42801b67-4a7a-b3d5-2e13-4f511140bc41
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

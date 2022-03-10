@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec04.pdf
 uid: 38808f58-3255-4e6d-b65a-1ca82ca827cb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

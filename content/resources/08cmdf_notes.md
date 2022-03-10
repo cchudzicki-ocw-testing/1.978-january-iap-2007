@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 08cmdf_notes.pdf
 uid: 9b14fdb6-73a8-059d-aacf-22d31cd08d5f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

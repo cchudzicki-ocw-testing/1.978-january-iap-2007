@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 8cncrnt_mltiscal.pdf
 uid: 34bbd983-7a8d-6a12-e008-8a9220ff04ff
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
