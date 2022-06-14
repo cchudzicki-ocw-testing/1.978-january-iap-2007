@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on dislocations, crystal structures, and deformation of
   metals.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/cc692dae845ad785b48ec3aff2dc0ee7_lec03.pdf
+file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/cc692dae845ad785b48ec3aff2dc0ee7_lec03.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lecture slides on dislocations, crystal structures, and deformation of metals.

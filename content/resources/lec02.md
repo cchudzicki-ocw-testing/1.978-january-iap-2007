@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides introducing the molecular dynamics simulation and numerical
   techniques.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/1acdd0cdd9eb2c8fd527bcd642538674_lec02.pdf
+file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/1acdd0cdd9eb2c8fd527bcd642538674_lec02.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lecture slides introducing the molecular dynamics simulation and numerical techniques.

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions for Problem Set 1.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/30b6b4c95f49f42ef600906c4268cdad_ps1_solution.pdf
+file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/30b6b4c95f49f42ef600906c4268cdad_ps1_solution.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Solutions for Problem Set 1.

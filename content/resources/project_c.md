@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/6b547aa8ad85886a7e82670120d83fb1_project_c.pdf
+file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/6b547aa8ad85886a7e82670120d83fb1_project_c.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about a problem on nanowire mechanics
   for the final project.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/b42beef93460c6e8247243c1229558e5_project_a.pdf
+file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/b42beef93460c6e8247243c1229558e5_project_a.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains information about a problem on nanowire mechanics for the final project.

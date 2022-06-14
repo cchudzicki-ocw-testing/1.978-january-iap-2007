@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains simulation results for the course projects: NAMD
   - bending load (DCD).'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/a3975ff03fdbb16e5bc9d0d1f4526203_out_small_bending_load.dcd
+file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/a3975ff03fdbb16e5bc9d0d1f4526203_out_small_bending_load.dcd
 file_type: application/octet-stream
 learning_resource_types:
 - Projects
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains simulation results for the course projects: NAMD - bending load (DCD).

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on size effects in deformation of materials.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/59b5c9c0f8e0d56150ccd5e56202a2eb_lec08.pdf
+file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/59b5c9c0f8e0d56150ccd5e56202a2eb_lec08.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lecture slides on size effects in deformation of materials.
