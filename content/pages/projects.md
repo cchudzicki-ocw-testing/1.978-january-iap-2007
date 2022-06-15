@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides information on the final project for the course.
+  The final project includes molecular studies of three different systems, including
+  (i) a nanowire, (ii) fracture of a single crystal of silicon and (iii) deformation
+  and unfolding of a protein. All three examples serve the purpose of becoming more
+  acquainted with MD, including setting up problems, analysis methods and interpretation
+  of results.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
